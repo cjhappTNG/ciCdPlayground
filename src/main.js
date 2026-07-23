@@ -17,6 +17,6 @@ new App({
     // Which CI/CD tools do you use in your project?
     tools: "A huge Github actions setup",
     // What do you want to learn in this workshop?
-    expectations: ["Share knowledge about the basics of CI/CD"],
+    expectations: ["Learn how badly I screwed up our AWS migration"],
   },
 });
